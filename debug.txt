@@ -1,0 +1,8 @@
+Base dir: C:\laragon\www\pdfmerger
+Input file: C:\laragon\www\pdfmerger\input.json
+File input: ['uploads/Annotation 2024-08-14 124946.png', 'uploads/Antrian D.pdf']
+Converted: uploads/Annotation 2024-08-14 124946.png -> C:\laragon\www\pdfmerger\uploads/Annotation 2024-08-14 124946.png.temp.pdf
+Ditambahkan: C:\laragon\www\pdfmerger\uploads/Antrian D.pdf
+Ditambahkan: C:\laragon\www\pdfmerger\uploads/Annotation 2024-08-14 124946.png.temp.pdf
+Gabungan disimpan di: C:\laragon\www\pdfmerger\output\hasil_gabungan.pdf
+File sementara dihapus: C:\laragon\www\pdfmerger\uploads/Annotation 2024-08-14 124946.png.temp.pdf
